@@ -1,6 +1,6 @@
 # Kicad NGFF M.2 Symbols+Footprints
 
-A KiCad library providing schematic symbols and PCB footprints for various NGFF (M.2) connectors and modules.
+A KiCad library providing schematic symbols and PCB footprints for various NGFF (M.2) connectors.
 
 ## Contents
 
