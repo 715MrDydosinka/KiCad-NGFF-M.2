@@ -25,4 +25,4 @@ A KiCad library providing schematic symbols and PCB footprints for various NGFF 
 - `NGFF_Key-BM`
 
 ## Licence
-[Fuck-Your-License Licence](./LICENSE)
+[Fuck-Your-License](./LICENSE)
