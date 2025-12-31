@@ -3,7 +3,7 @@
 A KiCad library providing schematic symbols and PCB footprints for various NGFF (M.2) connectors and modules.
 
 ## Contents
-Ж
+
 ### Symbols
 - `Socket1_Key-A_DP`
 - `Socket1_Key-E`
